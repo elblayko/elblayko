@@ -11,7 +11,6 @@
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
 <img align="left" alt="Kubernetes" title="Kubernetes" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" />
 <img align="left" alt="Docker" title="Docker" width="38px" src="https://www.docker.com/assets/logo-files/Docker-Logo-White-RGB_Moby.png" />
-<img align="left" alt="Vue.js" title="Vue.js" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" />
 <img align="left" alt="Ansible"title="Ansible" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" />
 
 <!---
